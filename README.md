@@ -12,7 +12,7 @@ Can't play without buying the physical game.
 
 Uses threads to have one machine create the server and join as a client. Another machine can then join the server. Each client will wait on the other to make a move. Win conditions are checked every turn and a draw happens when there are no more moves available.
 
-![System diagram](docs/diagram.png)
+![System diagram](docs/SystemDiagram.png)
 
 ## Tech Stack
 
